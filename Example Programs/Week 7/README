@@ -1,0 +1,5 @@
+For running the examples from Week 7, you need some header files and object files from Week 5.
+To do so, download the Week 5 examples (including an updated makefile).
+Assuming that "Week 5" and "Week 7" directories are in the same directory, issue the following commands:
+make objects
+cp Toy2.h Toy2.o BatteryOperatedToy2.h BatteryOperatedToy2.o BatteryOperatedToyMaintenance2.h BatteryOperatedToyMaintenance2.o ../Week\ 7

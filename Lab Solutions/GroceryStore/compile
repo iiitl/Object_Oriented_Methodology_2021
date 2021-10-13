@@ -1,0 +1,1 @@
+g++ -o TestRun -g TestRun.cpp ProductDirectory.cpp Bill.cpp BillItem.cpp CountableQuantity.cpp UncountableQuantity.cpp Quantity.h

@@ -1,0 +1,5 @@
+For running the examples from Week 5, you need the header files and object files from Week 4.
+To do so, download the Week 4 examples (including an updated makefile).
+Assuming that "Week 4" and "Week 5" directories are in the same directory, issue the following commands:
+make objects
+cp *.h *.o ../Week\ 5
